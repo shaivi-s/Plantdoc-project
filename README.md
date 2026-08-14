@@ -140,7 +140,7 @@ Ensure `mobilenet_9way.keras` and `class_names.json` are in the `model/` folder.
 ```bash
 cd doc_app
 npm install
-npx expo start
+npx expo start -c
 ```
 Set `API_URL` in `services/api.js` to your backend's IP (e.g. `http://192.168.1.67:8000`).
 
