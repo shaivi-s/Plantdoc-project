@@ -158,4 +158,4 @@ Set `API_URL` in `services/api.js` to your backend's IP (e.g. `http://192.168.1.
 
 ## 📄 License
 
-*Academic project — [course / institution here]*
+*Academic project — [Nepal Engineering College]*
